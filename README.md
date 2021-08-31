@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gprasadhk
+- 👋 Hi, I’m Guru Prasad H K
 - 👀 I’m interested in anything JS
 - 🌱 I’m currently learning React, Angular, Vue ...
 - 📫 How to reach me gprasadhk@vmware.com
